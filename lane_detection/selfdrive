@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "selfdriving @ 9e8dbbf",
+			"uri": "gitlens://9e8dbbf/home/hanu/source/ai/selfdriving?{\"path\":\"/home/hanu/source/ai/selfdriving\",\"ref\":\"9e8dbbfd01ba7a2df6b7806794ed38881e3ad4dc\",\"repoPath\":\"/home/hanu/source/ai/selfdriving\"}"
+		},
+		{
+			"name": "selfdriving @ 0d4eec7",
+			"uri": "gitlens://0d4eec7/home/hanu/source/ai/selfdriving?{\"path\":\"/home/hanu/source/ai/selfdriving\",\"ref\":\"0d4eec7992901a2f360600a6c2ebe4ef823bc4ee\",\"repoPath\":\"/home/hanu/source/ai/selfdriving\"}"
+		}
+	],
+	"settings": {}
+}
